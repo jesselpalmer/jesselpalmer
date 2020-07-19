@@ -10,9 +10,9 @@ I'm a software engineering manager based in San Francisco, CA. I am also the co-
 
 ## Other tidbits
 - 💬 Ask me about: Anything!
-- 📫 How to reach me: [Twitter](https://twitter.com/jesselpalmer) or [email](https://mailto:jesselpalmer.com) is fine
+- 📫 How to reach me: [Twitter](https://twitter.com/jesselpalmer) or [email](mailto:jesselpalmer.com) are the best ways to reach me.
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: I learned to program using BASIC. 
+- ⚡ Fun fact: I am an avid gamer. Some of my faves include Mass Effect 2, Portal 2, and BioShock.
 
 <!--
 **jesselpalmer/jesselpalmer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
