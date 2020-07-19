@@ -1,6 +1,9 @@
 ### Hello there! I'm Jesse 👋🏾
 
-I'm a software engineering manager based in San Francisco. Some of my favorite technoloiges are JavaScript and TypeScript.
+I'm a software engineering manager based in San Francisco. I am also the co-author of Testing Angular Applications. I spend quite a bit of time with web technologies. Some of my favorite languages include JavaScript and TypeScript.
+
+- 📖 My book: [Testing Angular Applications](https://www.manning.com/books/testing-angular-applications)  
+- 🗞️ My newsletter: [On Engineering Leadership](https://tinyletter.com/jesselpalmer)  
 
 <!--
 **jesselpalmer/jesselpalmer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
