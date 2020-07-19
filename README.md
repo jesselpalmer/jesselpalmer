@@ -6,7 +6,8 @@ I'm a software engineering manager based in San Francisco, CA. I am also the co-
 - 📖 My book: [Testing Angular Applications](https://www.manning.com/books/testing-angular-applications)  
 - 🗞️ My newsletter: [On Engineering Leadership](https://tinyletter.com/jesselpalmer)  
 - 🐦 Twitter: [@jesselpalmer](https://twitter.com/jesselpalmer)
-- 💼 LinkedIn: [@jesselpalmer](https://www.linkedin.com/in/jesselpalmer/)
+- 💼 LinkedIn: [@jesselpalmer](https://www.linkedin.com/in/jesselpalmer/)  
+- 📝 Blog: [Medium](https://medium.com/@jesselpalmer)  
 
 ## Other tidbits
 - 💬 Ask me about: Anything!
