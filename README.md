@@ -2,7 +2,7 @@
 
 I am a software engineering manager at SurveyMonkey based out of San Francisco, CA, where I lead a full-stack engineering team focused on the growth of our core Surveys product. I also am the co-author of [Testing Angular Applications](https://www.manning.com/books/testing-angular-applications). 
 
-These days I spend quite a bit of time using web technologies like JavaScript and TypeScript.  Feel free to drop me a line on [Twitter](https://twitter.com/jesselpalmer) or [email](mailto:jesselpalmer@gmail.com)! I would love to hear from you!
+Feel free to drop me a line on [Twitter](https://twitter.com/jesselpalmer) or [email](mailto:jesselpalmer@gmail.com)! I would love to hear from you!
 
 ## Interesting links about me on the webs:
 - 📖 My book: [Testing Angular Applications](https://www.manning.com/books/testing-angular-applications)  
