@@ -10,6 +10,7 @@ Feel free to drop me a line on [Twitter](https://twitter.com/jesselpalmer) or [e
 - 🐦 Twitter: [@jesselpalmer](https://twitter.com/jesselpalmer)
 - 💼 LinkedIn: [@jesselpalmer](https://www.linkedin.com/in/jesselpalmer/)  
 - 📝 Blog: [Medium](https://medium.com/@jesselpalmer)  
+- <img src="https://static.npmjs.com/da3ab40fb0861d15c83854c29f5f2962.png"> npm: [npm](https://www.npmjs.com/~jesselpalmer)
 
 ## Other tidbits
 - 💬 Ask me about: Anything!
