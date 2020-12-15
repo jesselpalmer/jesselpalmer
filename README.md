@@ -17,7 +17,7 @@ Feel free to drop me a line on [Twitter](https://twitter.com/jesselpalmer) or [e
 - 💬 Ask me about: Anything!
 - 📫 How to reach me: [Twitter](https://twitter.com/jesselpalmer) or [email](mailto:jesselpalmer@gmail.com) are the best ways to reach me.
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: I am an avid gamer. Some of my faves include Mass Effect 2, Portal 2 and BioShock.
+- ⚡ Fun fact: Some of my favorite video games include Mass Effect 2, Portal 2 and BioShock.
 
 <!--
 **jesselpalmer/jesselpalmer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
