@@ -11,7 +11,7 @@ Feel free to drop me a line on [Twitter](https://twitter.com/jesselpalmer) or [e
 - 💼 LinkedIn: [@jesselpalmer](https://www.linkedin.com/in/jesselpalmer/)  
 - 📝 Blog: [Medium](https://medium.com/@jesselpalmer)  
 - <img src="https://static.npmjs.com/da3ab40fb0861d15c83854c29f5f2962.png"> npm: [link](https://www.npmjs.com/~jesselpalmer)
-- <img src="https://www.amazon.com/favicon.ico" width=15> Amazon Author Page: [link](https://www.amazon.com/Jesse-Palmer/e/B07KDKBZ7Q?ref=sr_ntt_srch_lnk_5&qid=1608017560&sr=8-5)
+- <img src="https://www.amazon.com/favicon.ico" width=17> Amazon Author Page: [link](https://www.amazon.com/Jesse-Palmer/e/B07KDKBZ7Q?ref=sr_ntt_srch_lnk_5&qid=1608017560&sr=8-5)
 
 ## Other tidbits
 - 💬 Ask me about: Anything!
