@@ -1,6 +1,6 @@
 # Hello there! I'm Jesse 👋🏾
 
-I lead an engineering organization that includes two full-stack engineering teams. One is focused on growing our core Surveys product. The other team focuses on developing our internal development A/B testing platform.
+I lead an engineering organization at [Momentive](https://www.momentive.ai/) that includes two full-stack engineering teams. One is focused on running experiments to grow our core Surveys product, [surveymonkey.com](https://www.surveymonkey.com/). The other team focuses on developing tools (A/B Testing Platform, Product Analytics SDK, for example) that enable other teams to grow and build better products.
 
 I have tons of interests, but nowadays, I seem to spend most of my time in Growth, Product, and Front-end engineering. JavaScript, TypeScript, and Python tend to be my go-to languages.
 
