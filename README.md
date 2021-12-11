@@ -2,7 +2,7 @@
 
 I lead an engineering organization that includes two full-stack engineering teams. One is focused on growing our core Surveys product. The other team focuses on developing our internal development A/B testing platform.
 
-I have tons of interests, but nowadays, I seem to spend most of my time in Growth, Product, and Front-end engineering. JavaScript and TypeScript tend to be my go-to languages.
+I have tons of interests, but nowadays, I seem to spend most of my time in Growth, Product, and Front-end engineering. JavaScript, TypeScript, and Python tend to be my go-to languages.
 
 I also am the co-author of [Testing Angular Applications](https://www.manning.com/books/testing-angular-applications). 
 
