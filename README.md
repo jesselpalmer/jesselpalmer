@@ -10,7 +10,6 @@ Feel free to drop me a line on [Twitter](https://twitter.com/jesselpalmer) or [e
 
 ## Interesting links about me on the webs:
 - 📖 My book: [Testing Angular Applications](https://www.manning.com/books/testing-angular-applications)  
-- 🗞️ My newsletter: [On Engineering Leadership](https://tinyletter.com/jesselpalmer)  
 - 🐦 Twitter: [@jesselpalmer](https://twitter.com/jesselpalmer)
 - 💼 LinkedIn: [@jesselpalmer](https://www.linkedin.com/in/jesselpalmer/)  
 - 📝 Blog: [Medium](https://medium.com/@jesselpalmer)  
