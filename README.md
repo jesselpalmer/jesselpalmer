@@ -1,4 +1,4 @@
-# Hi, I'm Jesse Palmer 👋
+# Hi, I'm Jesse 👋
 
 I build infrastructure and open-source developer tools that help engineering teams move faster, experiment safely, and scale intelligently.
 
