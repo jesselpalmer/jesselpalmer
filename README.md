@@ -39,7 +39,7 @@ Led initiatives achieving **100% taxonomy compliance** and a **98.6% data usage 
 
 - **LinkedIn:** [linkedin.com/in/jesselpalmer](https://linkedin.com/in/jesselpalmer)  
 - **Website:** [jesselpalmer.com](https://jesselpalmer.com)  
-- **X (Twitter):** [@jesselpalmer](https://x.com/jesselpalmer)
+- **X:** [@jesselpalmer](https://x.com/jesselpalmer)
 
 ---
 
